@@ -1,3 +1,6 @@
+// mongoose schema
+
+
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
@@ -58,3 +61,6 @@ exerciseSchema.virtual('totalDuration').get(function () {
 const Exercise = mongoose.model("Exercise", exerciseSchema);
 
 module.exports = Exercise;
+
+
+// workout.js
