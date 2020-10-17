@@ -1,9 +1,9 @@
+// module exports from the workout.js file
+
 module.exports = {
     Exercise: require("./Workout"),
 };
 
 
 
-// module.exports = {
-//     Workout: require("./Workout"),
-// };
+

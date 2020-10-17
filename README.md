@@ -46,6 +46,7 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 You are required to submit the following:
 
-* The URL to the deployed application
+* The URL to the deployed application: https://fitmesstracker.herokuapp.com/
 
-* The URL to the Github repository
+* The URL to the Github repository: https://github.com/jamilohayia/FitnessTracker
+

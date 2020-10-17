@@ -1,4 +1,4 @@
-// mongoose schema
+// mongoose schema to hold the workouts
 
 
 const mongoose = require('mongoose');
@@ -63,4 +63,4 @@ const Exercise = mongoose.model("Exercise", exerciseSchema);
 module.exports = Exercise;
 
 
-// workout.js
+

@@ -1,3 +1,5 @@
+// This file initiates our serves and the Port
+
 const express = require("express");
 const mongoose = require("mongoose");
 
